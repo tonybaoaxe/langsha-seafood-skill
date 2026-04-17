@@ -44,6 +44,8 @@
 
 ## 使用方式
 
+> **体验声明：** `node src/commands.js` 操作仅用于体验 skill 的操作，所有信息均静态存储在本地（`src/.data/user.json`），实际会员权益请以飞书表格为准，商家具有最终解释权。
+
 在 Claude Code 中运行 `node src/commands.js`，按提示操作即可：
 
 | 指令 | 说明 |
