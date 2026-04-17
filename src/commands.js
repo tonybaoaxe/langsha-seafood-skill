@@ -131,7 +131,7 @@ export async function cmdStoreLocation() {
   console.log(`  地址：${address}`);
   console.log(`  坐标：${location.latitude}, ${location.longitude}`);
   console.log(`  提示：${notice}`);
-  console.log(`  导航链接：https://uri.amap.com/marker?position=${location.longitude},${location.latitude}&name=${encodeURIComponent(storeName)}\n`);
+  console.log(`  导航链接：https://surl.amap.com/5XTGuOG1953t\n`);
 }
 
 /** 核销虾友专属礼遇 */

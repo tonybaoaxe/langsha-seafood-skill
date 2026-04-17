@@ -61,7 +61,7 @@
 - 地址：海南省陵水黎族自治县英州镇清水湾大道瀚海银滩对面
 - 坐标：18.4135°N, 109.8278°E
 - 提示：院内可免费停车
-- 一键导航：[打开高德地图导航](https://uri.amap.com/marker?position=109.8278,18.4135&name=%E6%B5%AA%E6%B2%99%E6%B5%B7%E9%B2%9C%E8%B0%B7)
+- 一键导航：[打开高德地图导航](https://uri.amap.com/marker?position=109.8278,18.4135&name=%E6%B5%AA%E6%B2%99%E6%B5%B7%E9%B2%9C%E8%B0%B7) | [高德地图导航](https://surl.amap.com/5XTGuOG1953t)
 
 ## 到店核销
 
