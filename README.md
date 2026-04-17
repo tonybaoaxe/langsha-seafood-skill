@@ -40,6 +40,10 @@
 
 **打开手机微信扫一扫**
 
+| 认证表单 | [虾友台账](https://xcnw4pyuw3gv.feishu.cn/wiki/HS9UwGJIiiksJak3kcSc0s6onDh?from=from_copylink) |
+|----------|----------|
+| 扫码完成认证 | 查看虾友共享台账（只读） |
+
 </div>
 
 ## 使用方式
