@@ -1,0 +1,12 @@
+{
+  "name": "langsha-seafood-skill",
+  "version": "1.0.0",
+  "description": "浪沙海鲜谷 · 虾友会员 Skill — 轻量开源的会员身份与权益服务",
+  "main": "src/commands.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/utils.test.js"
+  },
+  "keywords": ["langsha", "seafood", "membership", "skill", "feishu"],
+  "license": "MIT"
+}
