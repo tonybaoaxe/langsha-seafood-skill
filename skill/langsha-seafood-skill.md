@@ -27,6 +27,15 @@
 | 4 | 浪沙海鲜谷位置 | 查看门店地址和导航链接 |
 | 5 | 核销虾友专属礼遇 | 查看核销信息，到店找经理领取礼遇 |
 
+**体验声明**：`node src/commands.js` 操作仅用于体验 skill 的操作，所有信息均静态存储在本地（`src/.data/user.json`），实际会员权益请以飞书表格为准，商家具有最终解释权。
+
+## 飞书表格
+
+- 提交表单：https://xcnw4pyuw3gv.feishu.cn/share/base/form/shrcn36WDzf1e907WNfz78JbQSg
+- 查看台账：https://xcnw4pyuw3gv.feishu.cn/wiki/HS9UwGJIiiksJak3kcSc0s6onDh?from=from_copylink
+
+**用户必须提交飞书表单才算正式注册成为虾友，本地生成仅为体验流程。**
+
 ## 到店核销
 
 1. 到店后找门店经理
