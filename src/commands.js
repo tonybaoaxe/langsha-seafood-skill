@@ -4,7 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { generateShrimpId, maskNickname, maskPhone, generateBlessing, isValidPhone } from './utils.js';
-import { FEISHU_FORM_URL, STORE_INFO, BLESSING_TEMPLATES } from './config.js';
+import { TENCENT_FORM_URL, STORE_INFO, BLESSING_TEMPLATES } from './config.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '.data');
@@ -88,9 +88,9 @@ export async function cmdRegister() {
   console.log(`  手机：${phoneMasked}`);
   console.log(`  欢迎语：${blessing}`);
 
-  // 引导填写飞书表单
-  console.log('\n📋 请完成最后一步：在飞书表单中提交信息');
-  console.log(`打开链接：${FEISHU_FORM_URL}`);
+  // 引导填写腾讯表单
+  console.log('\n📋 请完成最后一步：在腾讯文档表单中提交信息');
+  console.log(`打开链接：${TENCENT_FORM_URL}`);
   console.log('\n表单只需填写两项：');
   console.log(`  昵称：${nickMasked}`);
   console.log(`  手机号：${phone}`);

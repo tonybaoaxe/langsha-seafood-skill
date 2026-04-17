@@ -40,7 +40,7 @@
 
 **打开手机微信扫一扫**
 
-| 认证表单 | [虾友台账](https://xcnw4pyuw3gv.feishu.cn/wiki/HS9UwGJIiiksJak3kcSc0s6onDh?from=from_copylink) |
+| 认证表单 | [虾友台账](https://docs.qq.com/smartsheet/DU3VSWHZNWW5rSUJv?tab=exmo3h) |
 |----------|----------|
 | 扫码完成认证 | 查看虾友共享台账（只读） |
 
@@ -48,7 +48,7 @@
 
 ## 使用方式
 
-> **体验声明：** `node src/commands.js` 操作仅用于体验 skill 的操作，所有信息均静态存储在本地（`src/.data/user.json`），实际会员权益请以飞书表格为准，商家具有最终解释权。
+> **体验声明：** `node src/commands.js` 操作仅用于体验 skill 的操作，所有信息均静态存储在本地（`src/.data/user.json`），实际会员权益请以腾讯文档表格为准，商家具有最终解释权。
 
 在 Claude Code 中运行 `node src/commands.js`，按提示操作即可：
 

@@ -1,16 +1,16 @@
 /**
  * 浪沙虾友 · 配置管理
  *
- * 商家使用时需修改 FEISHU_FORM_URL 为真实的飞书表单公开链接
+ * 商家使用时需修改 TENCENT_FORM_URL 和 TENCENT_BITABLE_URL 为真实的腾讯文档链接
  */
 
 // ========== 商家配置区域 ==========
 
-/** 飞书表单公开填写链接 — 商家创建表单后替换此值 */
-export const FEISHU_FORM_URL = 'https://xcnw4pyuw3gv.feishu.cn/share/base/form/shrcn36WDzf1e907WNfz78JbQSg';
+/** 腾讯文档表单公开填写链接（对应扫二维码填表） */
+export const TENCENT_FORM_URL = 'https://docs.qq.com/smartsheet/form/SuRXvMYnkIBo%2Fexmo3h%2FvnT74w?tab=exmo3h';
 
-/** 飞书多维表格只读链接（用于公开展示虾友台账） */
-export const FEISHU_BITABLE_URL = 'https://xcnw4pyuw3gv.feishu.cn/wiki/HS9UwGJIiiksJak3kcSc0s6onDh?from=from_copylink';
+/** 腾讯文档多维表格只读链接（用于公开展示虾友台账） */
+export const TENCENT_BITABLE_URL = 'https://docs.qq.com/smartsheet/DU3VSWHZNWW5rSUJv?tab=exmo3h';
 
 // ========== 门店信息 ==========
 
